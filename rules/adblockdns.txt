@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241004002750
-! Last modified: 2024/10/04 00:27:50
-! Blocked domains: 144593
+! Version: 20241004094259
+! Last modified: 2024/10/04 09:42:59
+! Blocked domains: 144612
 ! unBlocked domains: 35
 !
 ||alebilet.034256.sbs^
@@ -6028,6 +6028,7 @@
 ||aerovanguard.com^
 ||www.aerreravasi.com^
 ||aeru.tv^
+||aeryt111.fun^
 ||btptod.aerzteblatt.de^
 ||data-c0856a82d9.aerzteblatt.de^
 ||data-df5a2bcc30.aerzteblatt.de^
@@ -17036,6 +17037,7 @@
 ||l.bfmtv.com^
 ||tr.actualites.bfmtv.com^
 ||tr.animations.bfmtv.com^
+||bfnsnehjbkewk.com^
 ||bfoleyinteractive.com^
 ||ctp1.bforbank.com^
 ||bforceonline.com^
@@ -28995,6 +28997,7 @@
 ||comfybaby.pl^
 ||comfygoodness.com^
 ||comfz.com^
+||comicad.net^
 ||aa.comicbook.com^
 ||3l0zszdzjhpw.www.comicleaks.com^
 ||lcs.comico.jp^
@@ -56350,6 +56353,7 @@
 ||hhllyt.com^
 ||1258.hhoevj.club^
 ||hhooyivpxq.com^
+||hhrerv.xyz^
 ||hhsp2.com^
 ||hhtrip.net^
 ||hhttm.top^
@@ -59338,6 +59342,7 @@
 ||id-icloud.com^
 ||www.inpost-cli.id-info0837.ws^
 ||id-location.live^
+||royalmail.id-package-status.com^
 ||id-telkomsel.help^
 ||findmy.id-track.info^
 ||id-visitors.com^
@@ -68315,6 +68320,7 @@
 ||tqtedm.kosmetik.at^
 ||kosmetyki24.eu^
 ||a8cv.kosodatemoney.com^
+||kossog.xyz^
 ||kost.tv^
 ||kostemak.com^
 ||kostenlose-counter.com^
@@ -69537,6 +69543,7 @@
 ||lasosignament.com^
 ||laspalmassportsbook.com^
 ||lasso.link^
+||last-blink.com^
 ||last0nef1le.com^
 ||lion.lastfrontiermagazine.com^
 ||lastlyseaweedgoose.com^
@@ -69751,6 +69758,7 @@
 ||data-e2b70f0c07.lb-oldenburg.de^
 ||go.lbb.in^
 ||lbi2-bradessco.site^
+||lbjekygz.icu^
 ||ads.lbtrack.com^
 ||lbx1x.top^
 ||lbxcnbrczmmp.com^
@@ -76090,6 +76098,7 @@
 ||s.meru.jp^
 ||merukore.jp^
 ||stats.merx.com^
+||meryt111.fun^
 ||merzostueru2hu8jr09.com^
 ||yae6.mes-bijoux.fr^
 ||tr.mes-bonsplans.be^
@@ -76398,6 +76407,7 @@
 ||app.mgoblue.com^
 ||ve01.mgod33cme.com^
 ||bmodjx.mgos.jp^
+||mgqtcs.xyz^
 ||counter.mgronline.com^
 ||imp.mgronline.com^
 ||mgs123.com^
@@ -82202,6 +82212,7 @@
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
+||navi25.ru^
 ||navi30.ru^
 ||navi32.com^
 ||navi33.com^
@@ -85283,6 +85294,7 @@
 ||4c3de0a130885c5012e5db3d06e91511.ntirslo.pl^
 ||d6045d3d0818b1aad3d7019a48dbcb10.ntirslo.pl^
 ||f56595cf087d5d589d336d12ff12e524.ntirslo.pl^
+||ntiutox.icu^
 ||smetrics.ntkm2.com^
 ||ntl-verif.com^
 ||tracking.ntl.no^
@@ -88492,6 +88504,7 @@
 ||ad.osen.co.kr^
 ||osf-34.buzz^
 ||osfrjut.com^
+||osgsijvkoap.com^
 ||solutions.oshaeducationcenter.com^
 ||oshaista.xyz^
 ||osharvrziafx.com^
@@ -91927,6 +91940,7 @@
 ||pinion.gg^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
+||pinjamanrupiah.xyz^
 ||pinjamteman.top^
 ||pinjamuang.top^
 ||ebgagg.pink.rs^
@@ -92558,6 +92572,7 @@
 ||mcd.playbuzz.com^
 ||pixel.playbuzz.com^
 ||tag-manager.playbuzz.com^
+||playdeadlock.lol^
 ||somni.playdium.com^
 ||playdowngames.com^
 ||playdownstation.com^
@@ -94551,6 +94566,7 @@
 ||potsluhajmstywer.click^
 ||potsofluck.com^
 ||pottercaprizecaprizearena.com^
+||potterheads.co^
 ||oossod.potterybarn.ae^
 ||smetrics.potterybarn.ca^
 ||ggduzx.potterybarn.com.kw^
@@ -96706,6 +96722,7 @@
 ||psurdoak.com^
 ||psurigrabi.com^
 ||psurouptoa.com^
+||psutopheehaufoo.net^
 ||psvpromo.psvgamestudio.com^
 ||psvitafreegames.com^
 ||pswagjx.com^
@@ -116733,6 +116750,7 @@
 ||speedilycartrigeglove.com^
 ||speedilyeuropeanshake.com^
 ||speedingbroadcastingportent.com^
+||speedknow.co^
 ||speedkredyt.pl^
 ||track.speedlinesp.com^
 ||adv.speednet.bg^
@@ -138107,6 +138125,7 @@
 ||whutchey.com^
 ||whuweehy.xyz^
 ||whwk.net^
+||whyareyouherewho.ru^
 ||whydah.org^
 ||whydowork.com^
 ||ghj.whyizh.site^
