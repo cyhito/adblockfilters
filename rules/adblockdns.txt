@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241108162720
-! Last modified: 2024/11/08 16:27:20
-! Blocked domains: 185558
+! Version: 20241109003133
+! Last modified: 2024/11/09 00:31:33
+! Blocked domains: 185574
 ! unBlocked domains: 50
 !
 ||donamervotes.000.pe^
@@ -17272,6 +17272,7 @@
 ||ashleyrnadison.com^
 ||karma.ashleyshaw.ca^
 ||ashleyssecrets.com^
+||ashlingzanyish.com^
 ||ashneetafashion.com^
 ||ashokainterior.com^
 ||rs.ashorestrifes.com^
@@ -31530,6 +31531,7 @@
 ||bywordmiddleagedpowder.com^
 ||byxexyy0.quest^
 ||byyanmaor.com^
+||byzoruator.com^
 ||as.bz-berlin.de^
 ||data-3d61e29638.bz-berlin.de^
 ||data-861bbf2127.bz-berlin.de^
@@ -46399,6 +46401,7 @@
 ||sourcepoint.deadspin.com^
 ||deafeningdock.com^
 ||deafeningdowntown.com^
+||deafeningphone.com^
 ||deafpioneers.com^
 ||vdrfga.deagoshop.ru^
 ||deai-labo.site^
@@ -49232,7 +49235,6 @@
 ||www2s.discountexhaustsystems.com^
 ||www2.discountfuelsystems.com^
 ||www2s.discountfuelsystems.com^
-||discounthoneywell.com^
 ||dhkyrl.discountmags.com^
 ||discountplacidlysymphony.com^
 ||analytics.discountpowertx.com^
@@ -58311,6 +58313,7 @@
 ||evenot.date^
 ||awwepz.evenstadmusikk.no^
 ||event-dot-learning-piano.appspot.com^
+||event-dot-procolor-backend.appspot.com^
 ||event-experiment.com^
 ||event-reporting-dot-webylytics.appspot.com^
 ||event-tracking.com^
@@ -62673,6 +62676,7 @@
 ||fkodq.com^
 ||fkondate.com^
 ||fkourazirop.shop^
+||fkpgr.buzz^
 ||fkr63eryj6sp4.ru^
 ||fkref.com^
 ||fkrkkmxsqeb5bj9r.s3.amazonaws.com^
@@ -67628,6 +67632,7 @@
 ||gearfu.com^
 ||geargrope.com^
 ||gearhomies.com^
+||gearhuman.com^
 ||geari.org^
 ||gearingsinth.world^
 ||gearranker.com^
@@ -69399,6 +69404,7 @@
 ||glinks.co^
 ||glipdax.com^
 ||glipigaicm.net^
+||gliptoacaft.net^
 ||gliraimsofu.net^
 ||glispa.com^
 ||glistendoll.com^
@@ -75841,6 +75847,7 @@
 ||cpa.hh.ru^
 ||hh6666.com^
 ||hh9uc8r3.xyz^
+||hhbehcahhajfffciaaef.world^
 ||hhbypdoecp.com^
 ||hhcj.co.uk^
 ||hhcskj.com^
@@ -86157,6 +86164,7 @@
 ||itstuffnews.com^
 ||itsup.com^
 ||itswabluon.com^
+||ittaels.com^
 ||ap-fakturownia.ittco.cl^
 ||ittogepiom.com^
 ||ittontrinevengre.info^
@@ -98896,6 +98904,7 @@
 ||louchaug.com^
 ||louchees.net^
 ||loudbars.com^
+||louderoink.shop^
 ||louderwalnut.com^
 ||loudlongerfolk.com^
 ||loudlunch.com^
@@ -108570,6 +108579,7 @@
 ||morinavotarius.top^
 ||affil.moringamix.cz^
 ||ad-app.morion.ua^
+||morionlochus.com^
 ||morionsluigini.digital^
 ||panda.moritz-petersen.de^
 ||ypqgnx.morizon.pl^
@@ -110189,6 +110199,7 @@
 ||mwkusgotlzu.com^
 ||mwlle.com^
 ||mediation.mwmadnetworks.com^
+||prod.event.mwm-asset-manager.mwmwebapis.com^
 ||cyberfolks-pl-0510ea8e26e.mwpavimentos.com.br^
 ||cyberfolks-pl-05eb6b44dcb.mwpavimentos.com.br^
 ||cyberfolks-pl-076eb3a3ec8.mwpavimentos.com.br^
@@ -112428,7 +112439,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -114979,6 +114989,7 @@
 ||nip24.com^
 ||nip26.com^
 ||nip28.com^
+||nip29.com^
 ||nip3.com^
 ||nip4.com^
 ||nip5.com^
@@ -124438,6 +124449,7 @@
 ||phenver.com^
 ||phepofte.net^
 ||pheptoam.com^
+||pheqae.com^
 ||pheselta.net^
 ||smetrics.phesgo.com^
 ||phetsaikrugi.com^
@@ -135465,6 +135477,7 @@
 ||razor-games.com^
 ||razor1911download.com^
 ||razor1911gaming.net^
+||razorvenue.com^
 ||razzedwhimsic.website^
 ||razzlebuyer.com^
 ||razzybabystudio.com^
@@ -145541,6 +145554,7 @@
 ||shoopusahealth.com^
 ||shoopvv.com^
 ||shoordaird.com^
+||shoorsoacmo.xyz^
 ||shoosh.co^
 ||shooterconsultationcart.com^
 ||shootereosins.com^
@@ -147168,6 +147182,7 @@
 ||analytics.sjf.se^
 ||go.sjgiants.com^
 ||sjgsgy.xyz^
+||sjilyhwpu.xyz^
 ||olx-pol-kxlsw2.sjkdh.xyz^
 ||sjluuom.icu^
 ||sjmsw.net^
@@ -178240,6 +178255,7 @@
 ||withinh.sbs^
 ||withlovetravel.com^
 ||withmefeyaukna.com^
+||withnimmunger.com^
 ||without-boarders.com^
 ||vy.withsaynapa.com^
 ||withsecurify.com^
