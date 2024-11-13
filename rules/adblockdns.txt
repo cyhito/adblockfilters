@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241113002824
-! Last modified: 2024/11/13 00:28:24
-! Blocked domains: 147029
+! Version: 20241113094227
+! Last modified: 2024/11/13 09:42:27
+! Blocked domains: 147036
 ! unBlocked domains: 41
 !
 ||0-0.fr^
@@ -17178,6 +17178,7 @@
 ||metrics.asos.com^
 ||metric.asos.de^
 ||creativeassets.asosservices.com^
+||rapid-glade-cde8.asoumare042024.workers.dev^
 ||asoursuls.com^
 ||asozordoafie.com^
 ||n339.asp-cc.com^
@@ -18987,6 +18988,7 @@
 ||avsifil.com^
 ||avsink3431.fun^
 ||avskype.com^
+||avspda.xyz^
 ||avsplow.com^
 ||avsvmcloud.com^
 ||info.avtechcapital.com^
@@ -56454,6 +56456,7 @@
 ||gdmdigital.com^
 ||www.gdmengyi.com^
 ||gdmgsecure.com^
+||gdpr-legal-cookie.com^
 ||gdpr.es^
 ||ads.gdriveplayer.us^
 ||gdsfefs.xyz^
@@ -57332,6 +57335,7 @@
 ||ghazel.ru^
 ||hchlqx.ghbass.com^
 ||ghbdsbfd.com^
+||gheqien.com^
 ||ghgasdt963.shop^
 ||ghiftshop.com^
 ||smetrics.ghirardelli.com^
@@ -76948,6 +76952,7 @@
 ||stats.leasy.dk^
 ||leaterplus.com.ua^
 ||leatheringwordes.pro^
+||stats.leavemealone.com^
 ||leaveoverwork.com^
 ||leavesofgrassmovie.com^
 ||leaveundo.com^
@@ -78895,6 +78900,7 @@
 ||locooler-ageneral.com^
 ||go.locosonic.com^
 ||locotrack.net^
+||locpikbb.icu^
 ||locrian-verbena-aerosteon.glitch.me^
 ||azwucq.locservice.fr^
 ||locsud.com^
@@ -84437,6 +84443,7 @@
 ||mizzen.com.ph^
 ||snipe.mizzuu.co^
 ||mj-snowplow-static-js.s3.amazonaws.com^
+||mjbidlg.icu^
 ||app.mjec.ca^
 ||mjfcv.club^
 ||mjhygiene.com^
