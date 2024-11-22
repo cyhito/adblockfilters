@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241122162923
-! Last modified: 2024/11/22 16:29:23
-! Blocked domains: 98206
+! Version: 20241123002944
+! Last modified: 2024/11/23 00:29:44
+! Blocked domains: 98214
 ! unBlocked domains: 40
 !
 ||640186f930.04de88565b.com^
@@ -25218,6 +25218,7 @@
 ||ctofestoon.click^
 ||ctoosqtuxgaq.com^
 ||ag.ctpsnet.com^
+||apps-pbd.ctraffic.io^
 ||ctrck.com^
 ||ctrdwm.com^
 ||ma-adx.ctrip.com^
@@ -28963,6 +28964,7 @@
 ||idg.dmdelivery.com^
 ||www.dmfgermany.de^
 ||cmp.dmgmediaprivacy.co.uk^
+||dmhclkohnrpvg.com^
 ||marketing.dmihotels.com^
 ||ssl-omtrdc.dmp-support.jp^
 ||adsdk.dmzj.com^
@@ -29634,6 +29636,7 @@
 ||drenchedanddrizzled.com^
 ||drenchsealed.com^
 ||drendragon.com^
+||drenqils.com^
 ||drenticor.shop^
 ||drepanidaemmyge.info^
 ||drepersonalinjury.com^
@@ -34950,6 +34953,7 @@
 ||links.foodnetwork.com^
 ||img.foodspring.at^
 ||img.foodspring.dk^
+||fooguthauque.net^
 ||foolproofanatomy.com^
 ||fooluminou.review^
 ||foone.com.br^
@@ -38347,6 +38351,7 @@
 ||guatemalabusinessdaily.com^
 ||guatex-d.top^
 ||gucaqai.com^
+||guckoash.net^
 ||guclubranda.com^
 ||info.gucu.org^
 ||gudangbanner.com^
@@ -47942,6 +47947,7 @@
 ||kwanvibist.com^
 ||kwbgmufi.com^
 ||kwedzcq.com^
+||kweizad.top^
 ||kwekii.com^
 ||kwestiastabilnosci.com^
 ||kwgefe.com^
@@ -68192,6 +68198,7 @@
 ||rcoproperty.com.au^
 ||rclog.rcplatformhk.com^
 ||rcqqlwb.cn^
+||rcqwmwxdvnt.com^
 ||rcuacroossonec.com.ua^
 ||rcube-session.top^
 ||rcyzsh.icu^
@@ -80043,6 +80050,7 @@
 ||tcsinksale.xyz^
 ||tctm.co^
 ||tctombola.com^
+||tcvjhwizmy.com^
 ||a.tcyclops.com^
 ||tcyh.net^
 ||tczdym.com^
