@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241123002944
-! Last modified: 2024/11/23 00:29:44
-! Blocked domains: 98214
+! Version: 20241123094426
+! Last modified: 2024/11/23 09:44:26
+! Blocked domains: 98247
 ! unBlocked domains: 40
 !
 ||640186f930.04de88565b.com^
@@ -2395,6 +2395,7 @@
 ||www.95599.cn^
 ||www.9579.com^
 ||bnp.958985.com^
+||95d127d868.com^
 ||95dg3.cfd^
 ||95ppq87g.de^
 ||95urbehxy2dh.top^
@@ -2534,6 +2535,7 @@
 ||a24help.ru^
 ||a26blm.eu^
 ||45cf2c258c.a272118d17.com^
+||a2b219c0ce.com^
 ||marketing.a2btracking.com^
 ||a2carsdartford.com^
 ||a2dfp.net^
@@ -3218,6 +3220,7 @@
 ||tp.ackermann.ch^
 ||ackng.com^
 ||acknowledgecalculated.com^
+||ackuwxjbk.com^
 ||go.aclara.com^
 ||artikle.aclcenergy.com^
 ||m.aclk.jp^
@@ -8231,6 +8234,7 @@
 ||logic.anzuinfra.com^
 ||ao-mall.com^
 ||ao1122kas.top^
+||ao1123kas.top^
 ||aobtwv.icu^
 ||aobuygo.com^
 ||marketing.aod-cloud.com^
@@ -12588,6 +12592,7 @@
 ||b69kq.com^
 ||b77.life^
 ||b7av.com^
+||b7bf007bbe.com^
 ||b7om8bdayac6at.com^
 ||s.b7q9v8z.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
@@ -13113,6 +13118,7 @@
 ||ww1.banrural.com^
 ||info.banrural.com.gt^
 ||smetrics.banter.com^
+||bantucepat.com^
 ||somni.banzel.com^
 ||log.baodauthau.vn^
 ||active.baofeng.com^
@@ -15352,6 +15358,7 @@
 ||binomo.com^
 ||binomo.in^
 ||binomo.info^
+||binomo2022.net^
 ||binomocadastro.com^
 ||binomoentrar.com^
 ||binomoidr.com^
@@ -25324,6 +25331,7 @@
 ||partner.cukrarskaskola.cz^
 ||partner.cukrarskyklub.cz^
 ||partner.cukraszvilag.hu^
+||cukuix.com^
 ||culini.com^
 ||culmedpasses.cam^
 ||culrosha.net^
@@ -26396,6 +26404,7 @@
 ||danaburkart.com^
 ||partneri.danahanouskova.cz^
 ||danapintar.club^
+||danarakyatol.com^
 ||filter3.danarimedia.com^
 ||xml3.danarimedia.com^
 ||ad.danawa.com^
@@ -28518,6 +28527,7 @@
 ||link.dior.com^
 ||ambassadors.diorinsider.com^
 ||diptaich.com^
+||dirdoophounu.net^
 ||ing.direct-acceso-app.com^
 ||ing.direct-app-acceso.com^
 ||analytics.directcardaccess.com^
@@ -29549,6 +29559,7 @@
 ||dramacool98.com^
 ||dramasoloist.com^
 ||dramatycznewiesci.click^
+||drapingleden.com^
 ||drasticdiscounts.club^
 ||dratingmaject.com^
 ||rkl.draugas.lt^
@@ -35957,6 +35968,7 @@
 ||gafsolutions.com^
 ||gafuner.space^
 ||gagdungeon.com^
+||gagebonus.com^
 ||gagufamily.com^
 ||vakzsu.gagushow.net^
 ||gahelrasoul.com^
@@ -36494,6 +36506,7 @@
 ||gesanbarrat.com^
 ||gesas.it^
 ||gescomstrategies.com^
+||gessiptoab.net^
 ||gestama.boats^
 ||gestiondecommande.com^
 ||ctt.gestor.app^
@@ -36602,6 +36615,7 @@
 ||getmyassignments.com^
 ||clk.getmycashcard.com^
 ||getmyfile.org^
+||getmyweaithsimple.com^
 ||download.getneema.com^
 ||getnewsfirst.com^
 ||to.getnitropack.com^
@@ -38705,6 +38719,7 @@
 ||jvozng.hairmnl.com^
 ||hairprogram.com^
 ||hairtransplantlucknow.com^
+||hajecurie.shop^
 ||hajilijnemo.com^
 ||hajper.com^
 ||gorilla.hakai.org^
@@ -40917,6 +40932,7 @@
 ||hwderdk.com^
 ||advertisement.hwn.no^
 ||hwnojj.xyz^
+||hwplypbn.icu^
 ||hwpnocpctu.com^
 ||hwpvbdj.xyz^
 ||m.hwzgo2.cn^
@@ -47548,6 +47564,7 @@
 ||trk.krebsversicherung.de^
 ||kredilimiti.com^
 ||kredit-rupiah.com^
+||krediteasypro.com^
 ||krediteksklusif.com^
 ||kreditifire.com^
 ||kredutu.com.ua^
@@ -52004,6 +52021,7 @@
 ||marchtobillionswithsolar.com^
 ||marchtv.ru^
 ||marciaarmata.com^
+||marcidknaves.com^
 ||paweltkaczyk.marcinandrews.pl^
 ||marynski.marcinlucas.pl^
 ||ieeowa.marcjacobsbeauty.com^
@@ -54737,6 +54755,7 @@
 ||moda-weronika.pl^
 ||lujcig.modaforyou.pl^
 ||marketing.modalife.com^
+||modalsaya.xyz^
 ||modastro.ee^
 ||marketing.modcloth.com^
 ||marketinga.modcloth.com^
@@ -56375,7 +56394,6 @@
 ||mx.mywd.com^
 ||news.mywd.com^
 ||pl.mywd.com^
-||myweaithsimple.com^
 ||mywealthpl.org^
 ||cars-taxonomy.mywebartist.eu^
 ||mywebcamstudio.com^
@@ -60087,6 +60105,7 @@
 ||onlinego-2024.com^
 ||onlinehelpcenetre.com^
 ||cgicounter.onlinehome.de^
+||onlinehome.us^
 ||onlinekey.biz^
 ||partneri.onlinelearning.cz^
 ||onlineparcel-info.com^
@@ -61470,6 +61489,7 @@
 ||paisit.top^
 ||paitosakti.com^
 ||paitoucaum.com^
+||paiwariaroids.shop^
 ||paiwena.xyz^
 ||paiwhisep.com^
 ||go.pajamaprogram.org^
@@ -62218,6 +62238,7 @@
 ||pataragallery.com^
 ||ads.patch.com^
 ||pixel.patch.com^
+||patchouptid.xyz^
 ||patchuppmatil.media^
 ||go.patcraft.com^
 ||www.patdollard.com^
@@ -63200,6 +63221,9 @@
 ||pingdom.net^
 ||pingpaid.com^
 ||pingshetrip.com^
+||pinjamanrupiah.xyz^
+||pinjamantunai.xyz^
+||pinjamdana.live^
 ||pinkies.pl^
 ||coobuo.pinkpanda.cz^
 ||mkwntx.pinkpanda.de^
@@ -64903,6 +64927,7 @@
 ||principlessilas.com^
 ||schemea.prinit.net^
 ||prinkastors.com^
+||prinksdammit.com^
 ||prinksoncotic.com^
 ||a8.print-netsquare.com^
 ||print-picture.com^
@@ -68725,6 +68750,7 @@
 ||a8clk.rei-book.com^
 ||omni.rei.com^
 ||reicarlinhosmaia.com^
+||reicezenana.com^
 ||reichelcormier.bid^
 ||statistic2.reichelt.de^
 ||reifenachbarn.com^
@@ -70610,6 +70636,7 @@
 ||ingest.make.rvapps.io^
 ||rorj.rvartions.ru^
 ||rvbztg.cn^
+||api.rvere.com^
 ||rvhrp.top^
 ||ns.rvmkitt.com^
 ||rvold.com^
@@ -70689,6 +70716,7 @@
 ||promo.rzonline.ru^
 ||rzqdqw.com^
 ||go.rzr.to^
+||rzuokcobzru.com^
 ||rzzlhfx.com^
 ||s-adzone.com^
 ||bannersimages.s-bol.com^
@@ -72234,6 +72262,7 @@
 ||b.seksohub.com^
 ||bup.seksohub.com^
 ||sda.seksohub.com^
+||selamatpinjam.space^
 ||selangorsihat-kewangankeluargasihat.my.id^
 ||seldomsevereforgetful.com^
 ||seldomuntidy.com^
@@ -83925,6 +83954,7 @@
 ||tpciqzm.com^
 ||outbound.tpctraining.com^
 ||tpdethnol.com^
+||tpi-app.herokuapp.com^
 ||tplinkextender.net^
 ||ad.tpmn.io^
 ||tptp002.cfd^
@@ -85757,6 +85787,7 @@
 ||tukofertas.com.br^
 ||tukomeo2.sbs^
 ||tukulors.info^
+||tukveks.com^
 ||tukygoopoe.com^
 ||link.tul.io^
 ||secure.tula9mari.com^
@@ -85807,6 +85838,7 @@
 ||tumultuserscheek.com^
 ||get.tunableapp.com^
 ||tunad.io^
+||tunairupiah.xyz^
 ||tunatastesentertained.com^
 ||tundestomyphoy.pro^
 ||tundrafolder.com^
@@ -97743,6 +97775,7 @@
 ||zmobilizowani24h.click^
 ||zmodified.com^
 ||zmonei.com^
+||zmrmbc.xyz^
 ||zmtradinginc.com^
 ||www.zmxncb5.com^
 ||zmyslonaprawda.click^
