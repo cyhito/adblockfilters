@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241203163018
-! Last modified: 2024/12/03 16:30:18
-! Blocked domains: 127788
+! Version: 20241204002958
+! Last modified: 2024/12/04 00:29:58
+! Blocked domains: 127794
 ! unBlocked domains: 31
 !
 ||04tips.com^
@@ -36497,6 +36497,7 @@
 ||conaviss-go-cr.top^
 ||concarla.com^
 ||concash.pl^
+||concealmentmimic.com^
 ||concedederaserskyline.com^
 ||conceitedfedapple.com^
 ||conceivedtowards.com^
@@ -86291,6 +86292,7 @@
 ||newsyswiatowe.click^
 ||newsytygodniowe.click^
 ||newtab-media.com^
+||newtabextension.com^
 ||newtabtv.com^
 ||search.newtabtvsearch.com^
 ||ed1.newtekone.com^
@@ -88279,6 +88281,7 @@
 ||tr.pro.odalys-vacances.com^
 ||tr.welcome.odalys-vacances.com^
 ||ea.odalys-vacation-rental.com^
+||odamcsk.top^
 ||odayango.com^
 ||odbierzkod.pl^
 ||odchudzaniezpasja.pl^
@@ -99203,6 +99206,7 @@
 ||ptarmigan.q-free.com^
 ||go.q-onecst.jp^
 ||q-stats.nl^
+||q1bp.icu^
 ||q1ilb0enze.ru^
 ||q1ixd.top^
 ||q1media.com^
@@ -113645,6 +113649,7 @@
 ||thaoheakolons.info^
 ||thapostco.top^
 ||news.thaprior.net^
+||thaqne.com^
 ||tharbadir.com^
 ||that-muscle.com^
 ||thatbeefysit.com^
@@ -121158,7 +121163,8 @@
 ||info.vizquest.com^
 ||vizualis.online^
 ||cmp.vizus.cz^
-||vizvaz.com^
+||boisenobeinsigy.vizvaz.com^
+||nvictedovnbfirst.vizvaz.com^
 ||vj-k.com^
 ||ads.vjaffiliates.com^
 ||vjcbm.com^
