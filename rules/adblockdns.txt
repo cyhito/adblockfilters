@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241204002958
-! Last modified: 2024/12/04 00:29:58
-! Blocked domains: 127794
+! Version: 20241204095241
+! Last modified: 2024/12/04 09:52:41
+! Blocked domains: 127800
 ! unBlocked domains: 31
 !
 ||04tips.com^
@@ -20660,7 +20660,6 @@
 ||banquet-barbecue.com^
 ||banquetpettyduchess.com^
 ||banquetunarmedgrater.com^
-||banregio.com^
 ||ww1.banrural.com^
 ||atencion.banrural.com.gt^
 ||info.banrural.com.gt^
@@ -29046,7 +29045,6 @@
 ||bsjusnip.com^
 ||events.bsky.app^
 ||bsnl-tower.com^
-||bsnltower.com^
 ||bsnltowerinstallations.com^
 ||l.bspace.io^
 ||jupiter-e.bstcorlon.care^
@@ -31374,6 +31372,7 @@
 ||partner.caskrmeni.cz^
 ||casksguest.com^
 ||webcontr.caso-design.de^
+||bitanalytics.casperverswijvelt.be^
 ||caspiancraft.com^
 ||caspion.com^
 ||caspionlog.appspot.com^
@@ -65260,6 +65259,7 @@
 ||imgqmng.com^
 ||imgr.eu^
 ||imgsdn.com^
+||media-advcycle.imgsmail.ru^
 ||imgsynd.com^
 ||cams.imgtaxi.com^
 ||ww2.imgtaxi.com^
@@ -77320,6 +77320,7 @@
 ||lumpyouter.com^
 ||lumtogle.net^
 ||lumustore.top^
+||lumvkebr.icu^
 ||lumxts.com^
 ||lynx.lumy.network^
 ||orbit.lun.ua^
@@ -85279,6 +85280,7 @@
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
+||navi83.ru^
 ||navi88.com^
 ||navi99.com^
 ||naviblue-team.com^
@@ -89489,6 +89491,7 @@
 ||tracking.op.se^
 ||tracking.etidning.op.se^
 ||op01.biz^
+||op3xdork.xyz^
 ||opabsolr.top^
 ||opalekogroszek.pl^
 ||opalquill.com^
@@ -104790,6 +104793,7 @@
 ||scrollisolation.com^
 ||stat.scroogefrog.com^
 ||bl.scroopcompole.com^
+||scroscoi.com^
 ||app.scrpbx.co^
 ||scru.cn^
 ||scrubheiress.com^
@@ -109424,6 +109428,7 @@
 ||ads.spymac.net^
 ||spymovies.org^
 ||thanecityfc.spyn.co^
+||spyokjoxdl.com^
 ||spysamesent.live^
 ||spywarebegone.com^
 ||spywareit.com^
@@ -127178,6 +127183,7 @@
 ||zeroredirect8.com^
 ||a8cv.zerorenovation.com^
 ||zerospinstocks.com^
+||zerowasteinitiative.com^
 ||zesemen.cz^
 ||zesep.com^
 ||zestkefalonia.com^
