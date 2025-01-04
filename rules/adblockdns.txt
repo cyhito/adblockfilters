@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20250104162608
-! Last modified: 2025/01/04 16:26:08
-! Blocked domains: 185073
+! Version: 20250105002452
+! Last modified: 2025/01/05 00:24:52
+! Blocked domains: 185081
 ! unBlocked domains: 49
 !
 ||www.057555.com^
@@ -3194,6 +3194,7 @@
 ||6v6.work^
 ||6vj3du75j.top^
 ||6vulkanvegas.com^
+||6w7.icu^
 ||img.6waves.com^
 ||xsell.6waves.com^
 ||6weekmuscleplan.com^
@@ -10145,6 +10146,7 @@
 ||dev-link.aira.io^
 ||link.aira.io^
 ||airairgu.com^
+||airakgyl.com^
 ||smetrics.airandgo.fr^
 ||iqbjqv.airarabia.com^
 ||metrics.airasia.com^
@@ -27072,7 +27074,6 @@
 ||blogtraffic.shop^
 ||li.blogtrottr.com^
 ||qcv5.blogtruyen.vn^
-||qcv5.blogtruyenmoi.com^
 ||blogtw.net^
 ||blogua.org^
 ||blogun.ru^
@@ -28035,6 +28036,7 @@
 ||carlsberg-13.w2.bluehosting.cz^
 ||gg.blueidea.com^
 ||blueinfinityaffiliates.com^
+||blueingpoori.com^
 ||blueistheneworanges.com^
 ||images.go.bluejacketslink.com^
 ||bluekai.com^
@@ -34809,6 +34811,7 @@
 ||cdxyb.cn^
 ||cdybwjpa.xyz^
 ||cdypsqghdgrw.com^
+||cdyurlif.top^
 ||ga.cdzanalytics.com^
 ||cdzhiqing.com^
 ||ebis.ce-parfait.com^
@@ -91030,6 +91033,7 @@
 ||rmbehm.junjewelry.com^
 ||junk-bros.com^
 ||junkaro.com^
+||junkettypika.shop^
 ||junkieswudge.com^
 ||junkmildredsuffering.com^
 ||click.junmediadclikrmdi.com^
@@ -98148,6 +98152,7 @@
 ||aic-ngfts.lge.com^
 ||landing.lgensol.com^
 ||lgepbups.xyz^
+||lgforbes.akamaized.net^
 ||smetrics.lgim.com^
 ||update.lgim.com^
 ||promotion.lginnotek.com^
@@ -143240,6 +143245,7 @@
 ||scissorsstatement.com^
 ||scissorsstitchdegrade.com^
 ||scissorwailed.com^
+||scjtfh.xyz^
 ||sckansasnews.com^
 ||tune.sckmediatv.com^
 ||scl6gc5l.site^
@@ -149344,6 +149350,7 @@
 ||so333o.com^
 ||tracking-sandbox.eloq.soa.org^
 ||tracking.eloq.soa.org^
+||soacoujusoopsoo.xyz^
 ||soadaupaila.net^
 ||soadicithaiy.net^
 ||soaheeme.net^
@@ -177723,6 +177730,7 @@
 ||whiceega.com^
 ||whichcandiedhandgrip.com^
 ||whidoutounseegn.xyz^
+||whidsugnoackili.net^
 ||whileinferioryourself.com^
 ||whilroacix.com^
 ||whimsicalcanyon.com^
