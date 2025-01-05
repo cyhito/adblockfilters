@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20250105002452
-! Last modified: 2025/01/05 00:24:52
-! Blocked domains: 185081
+! Version: 20250105094955
+! Last modified: 2025/01/05 09:49:55
+! Blocked domains: 185094
 ! unBlocked domains: 49
 !
 ||www.057555.com^
@@ -1804,6 +1804,7 @@
 ||3650022.com^
 ||3650970.cc^
 ||1npost-shjpment.365417.com^
+||365analytics.xyz^
 ||365bet.shop^
 ||ads.365cdn.is^
 ||365daizi.com^
@@ -2392,6 +2393,7 @@
 ||4gjergkd.ru^
 ||mt.4go.cc^
 ||vlmmbr.4graph.it^
+||collect.4gtv.tv^
 ||4h44.com^
 ||4hfchest5kdnfnut.com^
 ||jb.4hw.com.cn^
@@ -3569,6 +3571,7 @@
 ||7qo2met.com^
 ||7rjln8orgh.com^
 ||7rtv.com^
+||7s4c.top^
 ||7search.com^
 ||go.7shifts.com^
 ||7sloe.com^
@@ -62221,6 +62224,7 @@
 ||figuredcounteractworrying.com^
 ||figurinepkm.com^
 ||figy.digital^
+||fiheos.co.in^
 ||fiido.eu^
 ||fiidobikes.com^
 ||fiigtxpejme.com^
@@ -65868,7 +65872,6 @@
 ||tags.freedomfinancialnetwork.com^
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
-||freedomgift50.com^
 ||go.freedomhouse.org^
 ||services.freedomid.com^
 ||freedominfo.net^
@@ -66339,6 +66342,7 @@
 ||frightenedpotato.com^
 ||frigorificoflorida.com^
 ||frigoviande.com^
+||ads.frihetsnytt.se^
 ||frikesaumautrei-2844.vercel.app^
 ||frilns.com^
 ||frimogbr.com^
@@ -79639,6 +79643,7 @@
 ||usms.hrhlpghq.top^
 ||data.cx.hrhtenerife.com^
 ||hrihfiocc.com^
+||hrjciqyu.icu^
 ||hrjctx.xyz^
 ||trpzjj.hrkgame.com^
 ||hrmdw8da.net^
@@ -99128,6 +99133,7 @@
 ||liracdn.com^
 ||lirehub.com^
 ||lirotroodles.com^
+||lirretsn.com^
 ||lisabuddy.com^
 ||lisacoco.com^
 ||lisaderose.com^
@@ -108265,6 +108271,7 @@
 ||mistrzmotywacji.pl^
 ||as1.mistupid.com^
 ||mistydexterityflippant.com^
+||mistyforestolqt.online^
 ||mistyhorizon.com^
 ||exwvpm.misumi-ec.com^
 ||metrics.misumi-ec.com^
@@ -113719,6 +113726,7 @@
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
+||navi42.ru^
 ||navi45.ru^
 ||navi50.com^
 ||navi53.com^
@@ -116173,6 +116181,7 @@
 ||nmtcxz.xyz^
 ||nmtrc.org^
 ||nmxxvr.xyz^
+||nmzbrd.icu^
 ||a8aspconv.nn-com.co.jp^
 ||nn-zakon.ru^
 ||data-53808e266e.nn.de^
@@ -117273,6 +117282,7 @@
 ||nqrkzcd7ixwr.com^
 ||nqslmtuswqdz.com^
 ||nqvi-lnlu.icu^
+||nqzmveaeqknylr.com^
 ||storefront.nr-assets.net^
 ||0uync.nr3xc.com^
 ||nr5xz.top^
@@ -121749,6 +121759,7 @@
 ||ornamentbyechose.com^
 ||ornamentik.com^
 ||ornatecomputer.com^
+||ornpuxmucb.com^
 ||sgtm.ornusbike.com^
 ||trcka8.orobianco-jp.com^
 ||a8cv.orochoku.shop^
@@ -159246,6 +159257,7 @@
 ||testupdate.info^
 ||testvision.xyz^
 ||tesupervis.hair^
+||tet67.pages.dev^
 ||smetrics.tetheredtoptsd.com^
 ||aff.teticka.cz^
 ||tetigi.com^
@@ -174830,6 +174842,7 @@
 ||vtv24.pro^
 ||a.vtvdigital.vn^
 ||st-a.vtvdigital.vn^
+||uaid.vtwenty.com^
 ||vtydavos.com^
 ||vu-betredirect1.com^
 ||vu-kgxwyxpr.online^
