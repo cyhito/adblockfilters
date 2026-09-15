@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260915041435
-! Last modified: 2026/09/15 04:14:35
-! Blocked Filters: 118995
+! Version: 20260915122508
+! Last modified: 2026/09/15 12:25:08
+! Blocked Filters: 119006
 !
 ###AC_ad
 ###AD_160
@@ -26062,6 +26062,7 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@/favicon.ico$domain=cricket365.com|football365.com|golf365.com|loverugbyleague.com|planetf1.com|planetfootball.com|planetrugby.com|teamtalk.com|tennis365.com
 @@/favicon.ico$domain=lubetube.com
 @@/favicon.ico$third-party,domain=thehouseofportable.com
+@@/favicon.ico^$domain=cinefreak.nl
 @@/file$xmlhttprequest,stealth=referrer,domain=streameeeeee.site|videostr.net
 @@/file2/*$xmlhttprequest,stealth=referrer,domain=vidora.stream
 @@/file2/*==/*$xmlhttprequest,stealth=referrer,domain=megacloud.*
@@ -34618,7 +34619,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||playep.pro/log_event$~third-party,xmlhttprequest
 @@||player*.cinestream.bid^$stealth=referrer
 @@||player-smotri.mail.ru^$stealth=referrer
-@@||player.9cartoon.me/static/ads.js^
 @@||player.adcdn.tv^$stealth=webrtc
 @@||player.aniview.com/script/$script,domain=odysee.com|pogo.com
 @@||player.aniview.com/script/*/AVmanager.js$domain=adnkronos.com
@@ -37341,7 +37341,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||vidembed.re/stream$stealth=referrer
 @@||video*.xhcdn.com/key=$stealth=referrer
 @@||video*.yxhhdl.com^$media,stealth=referrer,domain=video.5054399.com
-@@||video-download.online/js/advertisement.js
 @@||video.520call.me/ad.php
 @@||video.520cc.cc/ad.php|
 @@||video.520cc.cc^$generichide
@@ -37697,7 +37696,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 @@||wp.youtube-anime.com^$image,stealth=referrer,domain=allmanga.to|mkissa.to
 @@||wpb.shueisha.co.jp^$generichide
 @@||wpfc.ml/b.gif$image,domain=holybooks.com
-@@||wplocker.com/advertisement.js
 @@||wpnrtnmrewunrtok.xyz/*preview/*/preview.jpg$image,domain=camwhores.tv
 @@||wpnrtnmrewunrtok.xyz/main/$image,domain=camwhores.tv
 @@||wpnrtnmrewunrtok.xyz^$domain=camwhores.ru.com|camvideos.org
@@ -45421,6 +45419,11 @@ cined.com##.recommended-course-card
 cined.com#%#//scriptlet("set-constant", "ulp_noadb", "true")
 cinefreak.nl#%#//scriptlet('abort-current-inline-script', 'onload', 'adsbygoogle')
 cinefreak.nl#%#//scriptlet('prevent-fetch', 'adsbygoogle')
+cinefreak.nl,cinefreak.*#$#.cfab-overlay { display: none !important; }
+cinefreak.nl,cinefreak.*#$#html.cfab-locked { overflow: auto !important; }
+cinefreak.nl,cinefreak.*#%#//scriptlet('abort-on-stack-trace', 'String.prototype.toLowerCase', 'isBot')
+cinefreak.nl,cinefreak.*#@#.ad-unit:not(.textads)
+cinefreak.nl,cinefreak.*#@#.sponsored-ad
 cinehd.app##section[aria-label^="Sponsored"]
 cinehd.app#%#//scriptlet('prevent-fetch', '/doubleclick|ads-twitter.com|google-analytics.com|adsbygoogle/')
 cinehd.app#%#//scriptlet('prevent-fetch', 'method:HEAD')
@@ -51347,6 +51350,7 @@ f2movies.*#%#//scriptlet('set-constant', 'document.write', 'undefined')
 f2movies.to,cineb.rs,himovies.bz##.block_area > div[class][style="width: 100%; padding-bottom: 320px; position: relative;"]:empty
 f2movies.to,moviesjoy.to##.news-iframe
 f2movies.to,streameast.watch#%#//scriptlet("abort-current-inline-script", "JSON.parse", "getPropertyValue('content')")
+f7hyg4q.org,q8y5z.com,rupertisdivingintoocean.com,398fitus.com,f75s.com,f16px.com#%#//scriptlet('prevent-setTimeout', 'readyWait')
 f95zone.to###bisnre09
 f95zone.to###topNotice
 f95zone.to##.node--link:has([href^="/explore/"])
@@ -58033,6 +58037,7 @@ hotstar.com##div[data-testid="bbtype-video"]
 hotstar.com##div[data-testid^="ad-"]
 hotstar.com#%#//scriptlet('json-prune', 'success.page.spaces.player.widget_wrappers.*.widget.data.intervention_data.interventions.*.meta.preroll success.page.spaces.player.widget_wrappers.*.widget.data.intervention_data.sources.*.meta.midroll')
 hotstash.net##.cash-list-top
+hotukdeals.com###eventBannerPortal
 hotukdeals.com##.listLayout-box:has(> .bRad--a)
 hotukdeals.com##div[id$="AdSlotPortal"]
 hotukdeals.com##div[id*="AdSlotPortal"]
@@ -60342,6 +60347,11 @@ ishuhui.com##.a_xx_d
 isi7.net#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 isidewith.com##.overlayBG
 isidewith.com##.overlayContent
+isitcracked.com##.ad-banner
+isitcracked.com##a[rel^="nofollow sponsored"]
+isitcracked.com##aside.hidden > div.sticky > div.rounded-xl:has(> p.tracking-widest)
+isitcracked.com##div.flex.justify-center:has(> div[class] > p.tracking-widest)
+isitcracked.com##div.min-h-screen > div.mx-auto:has(div.ad-banner)
 isitdownorjustme.net##.aioc_advertise_box
 isitdownorjustme.net##img[width="970"][height="250"]
 isitdownrightnow.com###commentstop
@@ -62837,6 +62847,7 @@ lavorincasa.it##div[class^="wbn-"]
 lavorincasa.it#$#body { margin-top: -100px !important; }
 law.com,topcultured.com##h3
 law.cornell.edu##.gfs
+law.justia.com##.jlead-v2
 law.justia.com##.rotating-leads
 law.ravellawfirm.com###adblock-overlay
 law360.com##[style="width:100%;display:flex;justify-content:center;background-color:rgb(247, 247, 247);flex-direction:column;"]
@@ -74008,7 +74019,6 @@ pythonthree.com##.sidebar-main
 pzgolf.pl##.ban_static
 pzzc.net##.portal_block_summary
 q84sale.com#%#//scriptlet("set-constant", "google_jobrunner", "noopFunc")
-q8y5z.com,rupertisdivingintoocean.com,398fitus.com,f75s.com,f16px.com#%#//scriptlet('prevent-setTimeout', 'readyWait')
 qa.opensooq.com##.adSearch
 qafqazinfo.az###topbanner
 qafqazinfo.az##a.visible-lg
@@ -113946,6 +113956,7 @@ zzzyk.com###Tinfo
 ||streamelements.com/z/t
 ||streamen.com/exports/$third-party
 ||streamereasy.click^$popup
+||streamex.hn/pop.js
 ||streamex.sh/pop.js
 ||streamfree.to/acebet-banner
 ||streamfree.top/analytics.js
